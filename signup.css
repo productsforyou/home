@@ -1,0 +1,59 @@
+body{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1{
+  font-size: 4rem;
+  padding: 10%;
+  padding-top: 7%;
+}
+
+h2{
+  font-size: 3rem;
+  padding: 3%;
+}
+
+h4{
+  padding-top: 0;
+  padding-left: 7%;
+  padding-right: 7%;
+  padding-bottom: 3%;
+  line-height: 1.5;;
+}
+
+nav{
+  font-size: 1.5rem;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover{
+  text-decoration: none;
+  color: inherit;
+}
+
+
+.header{
+  background-color: #FF7F50;
+  color: white;
+}
+
+.content{
+  /* padding: 9%; */
+  font-family: 'Work Sans', sans-serif;
+}
+
+.Footer{
+    padding: 2%;
+    background-color: #FF7F50;
+    color: white;
+}
+
+.navbar{
+  padding: 3%;
+  padding-bottom: 0;
+}
